@@ -18,7 +18,11 @@ pip install pyperclip
 To run the application, simply create an new workbook in juypter notebook and copy the scripts.
 
 ### Screenshot
-Here is a screenshot of the ```tkinter``` GUI
+Here is a screenshot of the ```tkinter``` GUI of the application
+<p align="justified">
+  <img width="" height="" src="https://github.com/AntonyGN/GUI-Wifi-Password-Checker/blob/main/img.png">
+</p>
+
 
 ### Error handling
 If the application encounters an error while retrieving a password, it will display an error message in the console.
