@@ -1,1 +1,1 @@
-# Wifi-password-GUI-Application
+# Wifi password GUI Application
